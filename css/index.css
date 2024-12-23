@@ -1,0 +1,56 @@
+/* Styles page */
+
+
+body {
+    background-color: azure;
+}
+
+h1{
+    color:darkblue;
+    outline-style: outset;
+    text-align: center;
+}
+
+h1 {
+        font-family: "Hubot Sans", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+  }
+
+  
+  
+
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 6, 83);
+  }
+  
+  li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: small;
+  }
+
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: small;
+  }
+  
+  img {
+    border: 1px solid #4b0bef;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+    
+  }
+  
+  section {
+    margin-bottom: 2px; /* Space between sections */
+    padding: 2mm;       /* Space inside each section */
+  }
+
+  ul {
+    list-style-type: square;
+  }
